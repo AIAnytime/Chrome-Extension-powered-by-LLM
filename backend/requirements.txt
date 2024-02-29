@@ -1,0 +1,3 @@
+fastapi[all]
+python-dotenv
+openai
